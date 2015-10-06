@@ -4,8 +4,8 @@ Contents for (and related to) the GDG NIT Surat's Open Source workshop.
 ## Lets start with Git
 
 ###*What is Git?*
-In strict terms, Git is a "distributed version control management system".
-In simpler terms, Git is a "source code management system". It allows a team/group to work on projects, and the same pieces of code. More importantly, it helps them avoid the confusion which would normally arise with multiple people editing the same files simultaneously.
+In strict terms, Git is a "distributed version control system".
+In simpler terms, Git is a "source code management system". It allows a team/group to collaborate on projects, work and the same pieces of code. More importantly, it helps them avoid the confusion which would normally arise with multiple people editing the same files simultaneously.
 You will get the gist of it in time with experience. This git tutorial is aimed at getting you started with the basics. You aren't expected, or required, to understand the details all at once. But you are expected to follow along. *And ideally, experiment with and read up about git once you'r done here.*
 
 ###*Join Github*
